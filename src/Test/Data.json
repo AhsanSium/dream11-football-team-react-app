@@ -1,0 +1,281 @@
+[{
+    "id":"1",
+    "pic": "https://i.ibb.co/VMKCJT3/mbappe.jpg",
+    "name": "Kylian Mbappe",
+    "club": "PSG",
+    "salary": "231.2",
+    "rating": 90
+  }, {
+    "id":"2",
+    "pic": "https://i.ibb.co/KWqzcnS/starling.jpg",
+    "name": "Raheem Sterling",
+    "club": "Man City",
+    "salary": "173.6",
+    "rating": 85
+  }, {
+    "id":"3",
+    "pic": "https://i.ibb.co/9cjtV9y/sancho.jpg",
+    "name": "Jadon Sancho",
+    "club": "Dortmund",
+    "salary": "159.7",
+    "rating": 79
+  }, {
+    "id":"4",
+    "pic": "https://i.ibb.co/qWzDD8K/trent.jpg",
+    "name": "Trent Alexander-Arnold",
+    "club": "Liverpool",
+    "salary": "152.6",
+    "rating": 81
+  }, {
+    "id":"5",
+    "pic": "https://i.ibb.co/sVHtZK2/rashford.jpg",
+    "name": "Marcus Rashford",
+    "club": "Man United",
+    "salary": "135.8",
+    "rating": 81
+  }, {
+    "id":"6",
+    "pic": "https://i.ibb.co/8r8xSMS/salah.jpg",
+    "name": "Mohamed Salah",
+    "club": "Liverpool",
+    "salary": "129.2",
+    "rating": 88
+  }, {
+    "id":"7",
+    "pic": "https://i.ibb.co/mtfxKvJ/mane.jpg",
+    "name": "Sadio Mane",
+    "club": "Liverpool",
+    "salary": "124.1",
+    "rating": 87
+  }, {
+    "id":"8",
+    "pic": "https://i.ibb.co/9qRS2mD/grizmann.jpg",
+    "name": "Antoine Griezmann",
+    "club": "Barcelona",
+    "salary": "121.6",
+    "rating": 84
+  }, {
+    "id":"9",
+    "pic": "https://i.ibb.co/JRk7F9k/devis.jpg",
+    "name": "Alphonso Davies",
+    "club": "Analyst Programmer",
+    "salary": "119",
+    "rating": 86
+  }, {
+    "id":"10",
+    "pic": "https://i.ibb.co/VB1yFj8/kane.jpg",
+    "name": "Harry Kane",
+    "club": "Tottenhum",
+    "salary": "105.8",
+    "rating": 89
+  }, {
+    "id":"11",
+    "pic": "https://i.ibb.co/tcrSnKf/Phill-Foden.jpg",
+    "name": "Phill Forden",
+    "club": "Man City",
+    "salary": "70.4",
+    "rating": 82
+  }, {
+    "id":"12",
+    "pic": "https://i.ibb.co/vH2RDMy/Firmino.jp",
+    "name": "Roberto Firmino",
+    "club": "Liverpool",
+    "salary": "105.7",
+    "rating": 81
+  }, {
+    "id":"13",
+    "pic": "https://i.ibb.co/Kqv1KNP/Bernardo.jpg",
+    "name": "Bernardo Silva",
+    "club": "Man City",
+    "salary": "102.5",
+    "rating": 82
+  }, {
+    "id":"14",
+    "pic": "https://i.ibb.co/0CTCLBB/jesus.jpg",
+    "name": "Gabriel Jesus",
+    "club": "Man City",
+    "salary": "102.5",
+    "rating": 84
+  }, {
+    "id":"15",
+    "pic": "https://i.ibb.co/QQZRQbf/joao-felix.jpg",
+    "name": "Joao Felix",
+    "club": "Atletico",
+    "salary": "96.2",
+    "rating": 79
+  }, {
+    "id":"16",
+    "pic": "https://i.ibb.co/NZgVMW8/haaland.jpg",
+    "name": "Erling Haaland",
+    "club": "Dortmund",
+    "salary": "95.7",
+    "rating": 87
+  }, {
+    "id":"17",
+    "pic": "https://i.ibb.co/gZL9Qdp/MUNICH-GERMANY-SEPTEMBER-18-Serge-Gnabry-of-FC-Bayern-Muenchen-celebrates-scoring-his-teams-first-go.jpg",
+    "name": "Serge Gnabry",
+    "club": "Bayern",
+    "salary": "95.2",
+    "rating": 86
+  }, {
+    "id":"18",
+    "pic": "https://i.ibb.co/rHC841h/bruno-fernandes.jpg",
+    "name": "Bruno Fernandes",
+    "club": "Man United",
+    "salary": "93.5",
+    "rating": 85
+  }, {
+    "id":"19",
+    "pic": "https://i.ibb.co/VQ4Wq2P/kevin-de-bruyne.jpg",
+    "name": "Kevin de bruyne",
+    "club": "Man City",
+    "salary": "120.4",
+    "rating": 90
+  }, {
+    "id":"20",
+    "pic": "https://i.ibb.co/BPftDVn/Mason-Mount.jpg",
+    "name": "Mason Mount",
+    "club": "Chelsea",
+    "salary": "91.4",
+    "rating": 77
+  }, {
+    "id":"21",
+    "pic": "https://i.ibb.co/7YVNtFM/Frenkie-de-Jong.jpg",
+    "name": "Frenkie de Jong",
+    "club": "Barcelona",
+    "salary": "91",
+    "rating": 81
+  }, {
+    "id":"22",
+    "pic": "https://i.ibb.co/2jx8LRw/Rodri.jpg",
+    "name": "Rodri",
+    "club": "Man City",
+    "salary": "90.5",
+    "rating": 79
+  }, {
+    "id":"23",
+    "pic": "https://i.ibb.co/2FW0Mvn/messi2.jpg",
+    "name": "Lionel Messi",
+    "club": "Barcelona",
+    "salary": "89.3",
+    "rating": 94
+  }, {
+    "id":"24",
+    "pic": "https://i.ibb.co/SwfxT3K/Lautaro-Martinez.jpg",
+    "name": "Lautaro Martinez",
+    "club": "Inter",
+    "salary": "88.2",
+    "rating": 82
+  }, {
+    "id":"25",
+    "pic": "https://i.ibb.co/2YnBs3G/Virgil-van-Dijk.jpg",
+    "name": "Virgil van Dijk",
+    "club": "Liverpool",
+    "salary": "87.8",
+    "rating": 90
+  }, {
+    "id":"26",
+    "pic": "https://i.ibb.co/qmHQw0x/Sergio-Ramos.jpg",
+    "name": "Sergio Ramos",
+    "club": "R.M.A",
+    "salary": "87.1",
+    "rating": 84
+  }, {
+    "id":"27",
+    "pic": "https://i.ibb.co/pKhdLzm/Richarlison.jpg",
+    "name": "Richarlison",
+    "club": "Everton",
+    "salary": "87.0",
+    "rating": 80
+  }, {
+    "id":"28",
+    "pic": "https://i.ibb.co/f2BkCWZ/lewandowski.jpg",
+    "name": "Robert Lewandowski",
+    "club": "Bayern",
+    "salary": "86.2",
+    "rating": 91
+  }, {
+    "id":"29",
+    "pic": "https://i.ibb.co/GQnzcRj/ronaldo.jpg",
+    "name": "Cristiano Ronaldo",
+    "club": "Juventus",
+    "salary": "84.4",
+    "rating": 94
+  }, {
+    "id":"30",
+    "pic": "https://i.ibb.co/zNpcNtw/Andy-Robertson.jpg",
+    "name": "Andy Robertson",
+    "club": "Liverpool",
+    "salary": "84.0",
+    "rating": 83
+  }, {
+    "id":"31",
+    "pic": "https://i.ibb.co/3BwRzFd/Romelu-Lukaku.jpg",
+    "name": "Romelu Lukaku",
+    "club": "Inter",
+    "salary": "80.5m",
+    "rating": 89
+  }, {
+    "id":"32",
+    "pic": "https://i.ibb.co/dMCxYCs/Timo-Werner.jpg",
+    "name": "Timo Werner",
+    "club": "Chelsea",
+    "salary": "80.5",
+    "rating": 81
+  }, {
+    "id":"33",
+    "pic": "https://i.ibb.co/SBbfpjV/ansu-fati.jpg",
+    "name": "Ansu Fati",
+    "club": "Bercelona",
+    "salary": "79.5",
+    "rating": 78
+  }, {
+    "id":"34",
+    "pic": "https://i.ibb.co/18wTZ0g/Ederson.jpg",
+    "name": "Ederson",
+    "club": "Man City",
+    "salary": "77.4",
+    "rating": 87
+  }, {
+    "id":"35",
+    "pic": "https://i.ibb.co/Dkc8dZd/Alisson.jpg",
+    "name": "Alisson",
+    "club": "Liverpool",
+    "salary": "75.1",
+    "rating": 88
+  }, {
+    "id":"36",
+    "pic": "https://i.ibb.co/LxqTYqL/Ter-Stegen.jpg",
+    "name": "Ter Stegen",
+    "club": "Barcelona",
+    "salary": "74.2",
+    "rating": 86
+  }, {
+    "id":"37",
+    "pic": "https://i.ibb.co/yQpNgVC/Clement-Lenglet.jpg",
+    "name": "Clement Lenglet",
+    "club": "Barcelona",
+    "salary": "73.9",
+    "rating": 77
+  }, {
+    "id":"38",
+    "pic": "https://i.ibb.co/nkRMkN8/neymar.jpg",
+    "name": "Neymar",
+    "club": "PSG",
+    "salary": "200",
+    "rating": 93
+  }, {
+    "id":"39",
+    "pic": "https://i.ibb.co/XtF46Jr/eden-hazard.jpg",
+    "name": "Eden Hazard",
+    "club": "RMA",
+    "salary": "150",
+    "rating": 91
+  }, {
+    "id":"40",
+    "pic": "https://i.ibb.co/jwNbtb1/heung-min-son.jpg",
+    "name": "Heung-Min-Son",
+    "club": "Tottenhum",
+    "salary": "100",
+    "rating": 87
+  }]

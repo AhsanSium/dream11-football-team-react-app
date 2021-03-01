@@ -1,0 +1,38 @@
+.menu{
+    padding: 5px;
+    display: grid;
+    background-color: rgb(177, 253, 247);
+    border-radius:25px;
+    margin-bottom:2%;
+}
+.menu-ul{
+    
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    margin-right: 20%;
+    
+    
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(0, 27, 77);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-weight:bolder;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: rgb(47, 218, 161);
+    border-radius: 10px;
+  }

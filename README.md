@@ -1,4 +1,4 @@
-# Programming HERO Assignment 7
+# Dream 11 Football Team React App
 
     1. 15 Players INFO Shown in Card Format
 
@@ -22,4 +22,6 @@
 
     11. Used Font Awesome
 
+## Live Site: https://ahsansium-dream11-react-project.netlify.app/
 # simple-react-Project-by-AhsanSium
+
